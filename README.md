@@ -1,4 +1,4 @@
-# Utide
+# Utide\n
 example of Utide
 depedencies:
 datetime,
